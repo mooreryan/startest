@@ -37,6 +37,7 @@ exception = { version = ">= 2.0.0 and < 3.0.0" }
 gleam_community_ansi = { version = ">= 1.4.0 and < 2.0.0" }
 gleam_erlang = { version = ">= 0.25.0 and < 1.0.0" }
 gleam_javascript = { version = ">= 0.8.0 and < 1.0.0" }
+gleam_otp = { version = ">= 0.10.0 and < 1.0.0"}
 gleam_stdlib = { version = ">= 0.36.0 and < 2.0.0" }
 glint = { version = ">= 1.0.0-rc2 and < 1.0.0-rc3" }
 simplifile = { version = ">= 1.7.0 and < 2.0.0" }
